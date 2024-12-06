@@ -3,7 +3,7 @@
 
 
 ## **Introduction**
-   Hello my name is Brett Soden, and I started attending SNHU's computer science two years ago. 
+   Hello my name is Pawan Gaire, and I started attending SNHU's computer science two years ago. 
    This gitHub pages account is meant to provide an electronic portfolio from which I finish
    my final project for CS-499 and compelete my Bachelor's degree in computer science.  
 
