@@ -140,4 +140,4 @@ the better.
 
 ### **GitHub Pages Link**
 
-- [CS-499 ePortfolio](https://brettsoden.github.io/)
+- [CS-499 ePortfolio](https://gairepawan.github.io/)
