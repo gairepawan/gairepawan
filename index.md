@@ -1,4 +1,11 @@
 # **CS-499 ePortfolio**
+<center>
+  <img src="about-me.png" height=200 width=200>
+</center>
+  
+# Computer Science Capstone
+  
+## <center>CS-499 | SNHU</center>
 
 
 
