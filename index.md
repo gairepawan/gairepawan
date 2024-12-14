@@ -41,6 +41,8 @@
     
 # **Code Review**
 
+You can watch the code review.
+
 [Code Review Youtube Link](https://www.youtube.com/watch?v=8pLpEzc8ggk)
 
 # **Enhancement One: Software Design and Engineering**
