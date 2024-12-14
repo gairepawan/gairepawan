@@ -1,11 +1,11 @@
-# **CS-499 ePortfolio**
+# **E-Portfolio**
 <center>
   <img src="about-me.png" height=200 width=200>
 </center>
   
 # Computer Science Capstone
   
-## <center>CS-499 | SNHU</center>
+## <center>Contact: (mr.pawangaire@gmail.com) | LinkedIn: (https://www.linkedin.com/in/gairepawan/) </center>
 
 
 
