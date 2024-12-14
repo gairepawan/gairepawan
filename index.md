@@ -5,7 +5,7 @@
   
 # Computer Science Capstone
   
-## <center>Contact: (mr.pawangaire@gmail.com) | LinkedIn: (https://www.linkedin.com/in/gairepawan/) </center>
+## <center> [Email](pawan.gaire@snhu.edu) | [LinkedIn](https://www.linkedin.com/in/gairepawan/) </center>
 
 
 
