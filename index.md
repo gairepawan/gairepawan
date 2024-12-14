@@ -40,8 +40,9 @@
    easier to read.
     
 # **Code Review**
+A code review involves quality assurance on a particular project by reviewing its source code and output. This is highly important to the success of computer science professionals, since it ensures a level of consistency in the development of a project and allows for a higher level of coding standards to be met. 
 
-You can watch the code review here. [Code Review Youtube Link](https://www.youtube.com/watch?v=8pLpEzc8ggk)
+You can watch the code review [here](https://www.youtube.com/watch?v=8pLpEzc8ggk)
 
 
 # **Enhancement One: Software Design and Engineering**
