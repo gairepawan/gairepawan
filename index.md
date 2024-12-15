@@ -9,9 +9,8 @@
 </div>
 
 ## **Self Introduction**
-Hello, my name is **Pawan Gaire**, and I am currently studying Computer Science at Southern New Hampshire University (SNHU). Over the past two years, I have been learning important skills like software development, database management, and algorithm design to prepare for a career in technology.
-This GitHub Pages account is a collection of my work, including my final project for CS-499, which represents everything I’ve learned during the program. It shows my progress in development and highlights projects demonstrating my skills in software engineering, algorithms, and databases.
-During my time at SNHU, I’ve also learned the value of teamwork, good communication, and designing systems that are easy to use. These lessons have helped me grow both personally and professionally. I’m excited to use my skills to solve real-world problems and make a positive impact in the tech field.
+Hello, my name is **Pawan Gaire**, and I am currently in my final class of the Computer Science program at Southern New Hampshire University (SNHU). Over the past few years, I have built a strong foundation in essential areas of computer science, including software development, database management, and algorithm design, as I prepare to launch my career in technology. This GitHub Pages account showcases my academic journey, with a special focus on my CS-499 capstone project. This final project highlights my progress and demonstrates my skills in software engineering, algorithms, and databases.
+Throughout my time at SNHU, I have also developed valuable soft skills such as teamwork, effective communication, and the ability to design user-friendly systems. These lessons have been instrumental in helping me grow both personally and professionally. As I approach the completion of my degree, I am excited to use the skills I’ve gained to solve real-world problems and contribute meaningfully to the tech field.
 
 
 ## **Education Review**
