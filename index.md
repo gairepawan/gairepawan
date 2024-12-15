@@ -5,10 +5,11 @@
   
 # Computer Science Capstone
 <div align="center">
-<a href="mailto:pawan.gaire@snhu.edu">Email</a> | <a href="https://www.linkedin.com/in/gairepawan/">LinkedIn</a>
+<a href="mailto:pawan.gaire@snhu.edu">Email</a>      |         <a href="https://www.linkedin.com/in/gairepawan/">LinkedIn</a>
 </div>
 
-## **Professional Self-Assessment**
+
+# **Professional Self-Assessment**
 Hello, my name is **Pawan Gaire**, and I am currently pursuing my Bachelor of Science in Computer Science at **Southern New Hampshire University (SNHU)**. As I complete my final class, this ePortfolio serves as a culmination of my academic journey, showcasing my growth, achievements, and ability to solve real-world problems through innovative solutions. My time in the Computer Science program has provided me with hands-on experience in software design and engineering, algorithms and data structures, and databases. These experiences have prepared me to make a meaningful impact in the tech industry.
 
 My academic journey at SNHU has been instrumental in shaping my technical and professional skills. The program has equipped me with a solid foundation in software development, database management, and algorithm design, enabling me to design, implement, and enhance practical solutions that align with industry standards. I’ve learned to apply advanced design patterns such as Singleton, Observer, and Factory to create modular and maintainable systems. My coursework in algorithms and data structures has taught me to optimize performance using tools like linked lists and hash maps, while my work in databases has involved integrating relational and NoSQL systems into full-stack applications. Beyond technical expertise, the program has also emphasized teamwork, communication, and security, ensuring I am well-prepared for collaborative and professional environments.
