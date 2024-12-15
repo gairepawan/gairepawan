@@ -19,18 +19,23 @@ The artifacts in this ePortfolio reflect my ability to design, develop, and enha
 Here's how I have met the program’s core outcomes throughout my academic journey:
 
 **Course Outcome 1: (Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.)**
+
 I met this outcome by fostering collaboration and engaging with peers and stakeholders throughout my projects. For instance, during the enhancement of my database artifact, I incorporated feedback to refine its functionality and ensure it met the needs of both technical and non-technical users. The travel website's design allows for collaborative data entry, making it accessible to users with varying technical expertise. Additionally, my experience conducting code reviews and working on team projects helped me understand the importance of collaboration in creating high-quality solutions that align with organizational goals.
 
 **Course Outcome 2: (Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.)**
+
 I achieved this outcome by ensuring clear and professional communication in every aspect of my work. Each artifact is accompanied by detailed documentation and narratives that explain the rationale behind enhancements, making the projects accessible to technical and non-technical audiences alike. For example, in my software design artifact, I provided clear descriptions of the GUI functionality and how it improves user experience. These efforts demonstrate my ability to deliver professional-quality communications tailored to diverse audiences and contexts.
 
 **Course Outcome 3: (Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.)**
+
 I met this outcome by designing and evaluating efficient computing solutions in my algorithms and data structures artifact. Enhancements such as linked lists, sorting, and filtering algorithms addressed specific user needs while balancing trade-offs in complexity and performance. These updates demonstrate my ability to apply algorithmic principles to develop practical and scalable solutions that align with computer science practices and standards.
 
 **Course Outcome 4: (Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.)**
+
 I fulfilled this outcome through the advanced tools and techniques utilized in my database artifact. By leveraging the MEAN stack, I developed a secure and dynamic single-page application (SPA) that included real-time data management and an administrative dashboard. This project showcases my ability to adopt innovative technologies to create impactful and industry-relevant solutions. The enhancements also demonstrate my ability to integrate both front-end and back-end systems seamlessly.
 
 **Course Outcome 5: (Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.)**
+
 I met this outcome by implementing security-focused enhancements in my projects, particularly the travel website artifact. I incorporated authentication and input validation mechanisms to prevent vulnerabilities such as SQL injection attacks. I also tested these security measures thoroughly to ensure the protection of user data. These efforts reflect my commitment to designing secure systems that prioritize privacy and data integrity, meeting professional security standards.
 
 By meeting each of these outcomes, I have demonstrated my ability to apply core computer science principles and practices in ways that are technically sound, user-focused, and aligned with industry expectations. These accomplishments underscore my readiness to contribute effectively to real-world challenges in the tech industry.
