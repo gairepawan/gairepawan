@@ -4,8 +4,9 @@
 </center>
   
 # Computer Science Capstone
-
-     [Email](mailto:pawan.gaire@snhu.edu) | [LinkedIn](https://www.linkedin.com/in/gairepawan/)
+<div align="center">
+<a href="mailto:pawan.gaire@snhu.edu">Email</a> | <a href="https://www.linkedin.com/in/gairepawan/">LinkedIn</a>
+</div>
 
 ## **Introduction**
    Hello my name is Pawan Gaire, and I started attending SNHU's computer science two years ago. 
