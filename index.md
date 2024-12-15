@@ -32,7 +32,7 @@ I met this outcome by designing and evaluating efficient computing solutions in 
 
 **Course Outcome 4: (Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.)**
 
-I fulfilled this outcome through the advanced tools and techniques utilized in my database artifact. By leveraging the MEAN stack, I developed a secure and dynamic single-page application (SPA) that included real-time data management and an administrative dashboard. This project showcases my ability to adopt innovative technologies to create impactful and industry-relevant solutions. The enhancements also demonstrate my ability to integrate both front-end and back-end systems seamlessly.
+I fulfilled this outcome through the advanced tools and techniques utilization in my database artifact. By leveraging the MEAN stack, I developed a secure and dynamic single-page application (SPA) that included real-time data management and an administrative dashboard. This project showcases my ability to adopt innovative technologies to create impactful and industry-relevant solutions. The enhancements also demonstrate my ability to integrate both front-end and back-end systems seamlessly.
 
 **Course Outcome 5: (Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.)**
 
