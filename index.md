@@ -8,10 +8,10 @@
 <a href="mailto:pawan.gaire@snhu.edu">Email</a> | <a href="https://www.linkedin.com/in/gairepawan/">LinkedIn</a>
 </div>
 
-## **Introduction**
-   Hello my name is Pawan Gaire, and I started attending SNHU's computer science two years ago. 
-   This gitHub pages account is meant to provide an electronic portfolio from which I finish
-   my final project for CS-499 and compelete my Bachelor's degree in computer science.  
+## **Self Introduction**
+Hello, my name is **Pawan Gaire**, and I am currently studying Computer Science at Southern New Hampshire University (SNHU). Over the past two years, I have been learning important skills like software development, database management, and algorithm design to prepare for a career in technology.
+This GitHub Pages account is a collection of my work, including my final project for CS-499, which represents everything I’ve learned during the program. It shows my progress in development and highlights projects demonstrating my skills in software engineering, algorithms, and databases.
+During my time at SNHU, I’ve also learned the value of teamwork, good communication, and designing systems that are easy to use. These lessons have helped me grow both personally and professionally. I’m excited to use my skills to solve real-world problems and make a positive impact in the tech field.
 
 
 ## **Education Review**
