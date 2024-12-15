@@ -21,10 +21,9 @@ This program has prepared me not only with the technical expertise needed to suc
 
 
 ## **Artifacts**
-   The artifacts presented for the portfolio are introductions to my work for software design and 
-   engineering, algorithms and data structures, and databases.  Through the course of the class, I 
-   have improved my artifacts software, expanded their complexity, and added comments to make their code
-   easier to read.
+The artifacts in my portfolio represent the culmination of my work and growth in software design and engineering, algorithms and data structures, and database management. Each artifact showcases my ability to design, implement, and refine software solutions that are not only functional but also maintainable and user-friendly.
+Throughout this course, I have significantly enhanced my artifacts by expanding their complexity, optimizing their performance, and improving their readability. I incorporated advanced features and design patterns, streamlined functionality to align with professional standards, and added detailed comments to ensure clarity and maintainability. These enhancements reflect my commitment to producing high-quality work and demonstrate my ability to evolve my projects to meet modern development expectations.
+Each artifact is a testament to the skills I have gained and the progress I have made as a computer science student. They illustrate my ability to solve real-world problems, adapt to new challenges, and continuously improve my work through thoughtful iteration and feedback. This collection not only highlights my technical expertise but also my readiness to contribute meaningfully to professional environments in the tech industry.
     
 # **Code Review**
 A code review involves quality assurance on a particular project by reviewing its source code and output. This is highly important to the success of computer science professionals, since it ensures a level of consistency in the development of a project and allows for a higher level of coding standards to be met. 
