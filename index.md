@@ -40,7 +40,7 @@ I met this outcome by implementing security-focused enhancements in my projects,
 
 By meeting each of these outcomes, I have demonstrated my ability to apply core computer science principles and practices in ways that are technically sound, user-focused, and aligned with industry expectations. These accomplishments underscore my readiness to contribute effectively to real-world challenges in the tech industry.
     
-# **Code Review**
+# Code Review
 A code review involves quality assurance on a particular project by reviewing its source code and output. This is highly important to the success of computer science professionals, since it ensures a level of consistency in the development of a project and allows for a higher level of coding standards to be met. 
 
 You can watch the code review here: 
