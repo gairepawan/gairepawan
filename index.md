@@ -16,7 +16,7 @@ My academic journey at SNHU has been instrumental in shaping my technical and pr
 
 The artifacts in this ePortfolio reflect my ability to design, develop, and enhance solutions in three critical areas of computer science. My first artifact demonstrates my work in **Software Design and Engineering**, where I transformed a text-based adventure game into a GUI-based application using Java Swing. This project highlights my ability to apply design patterns to improve scalability, maintainability, and user experience. The second artifact focuses on **Algorithms and Data Structures**, showcasing a C++ program enhanced with linked lists, sorting and filtering algorithms, and a dynamic command-line interface (CLI) for improved interactivity. Lastly, my **Database** artifact is a travel website developed using the MEAN stack, transformed into a secure, dynamic single-page application (SPA) with authentication, real-time data management, and an administrative dashboard. These projects collectively demonstrate my technical proficiency, problem-solving skills, and ability to create user-focused solutions.
 
-Here's how I have met the program’s core outcomes throughout my academic journey:
+Here's how I have met the program’s core outcomes throughout this project: 
 
 **Course Outcome 1: (Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.)**
 
