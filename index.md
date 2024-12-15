@@ -9,8 +9,8 @@
 </div>
 
 ## **Self Introduction**
-Hello, my name is **Pawan Gaire**, and I am currently in my final class of the Computer Science program at Southern New Hampshire University (SNHU). Over the past few years, I have built a strong foundation in essential areas of computer science, including software development, database management, and algorithm design, as I prepare to launch my career in technology. This GitHub Pages account showcases my academic journey, with a special focus on my CS-499 capstone project. This final project highlights my progress and demonstrates my skills in software engineering, algorithms, and databases.
-Throughout my time at SNHU, I have also developed valuable soft skills such as teamwork, effective communication, and the ability to design user-friendly systems. These lessons have been instrumental in helping me grow both personally and professionally. As I approach the completion of my degree, I am excited to use the skills I’ve gained to solve real-world problems and contribute meaningfully to the tech field.
+Hello, my name is **Pawan Gaire**, and I am currently studying Computer Science at Southern New Hampshire University (SNHU). I am in my final class of the program, where I am completing my CS-499 capstone project—a culmination of everything I’ve learned throughout my academic journey. Over the past few years, I have built a solid foundation in software development, database management, and algorithm design, preparing me for a rewarding career in the tech industry.
+This GitHub Pages account serves as a showcase of my progress, featuring projects that highlight my skills in software engineering, data structures, and databases. Beyond technical expertise, my time at SNHU has taught me the value of teamwork, effective communication, and designing user-friendly systems. These experiences have helped me grow both personally and professionally, and I am excited to use my knowledge and skills to solve real-world problems and make a positive impact in the field of technology.
 
 
 ## **Education Review**
