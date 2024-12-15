@@ -14,21 +14,10 @@ This GitHub Pages account serves as a showcase of my progress, featuring project
 
 
 ## **Education Review**
-   Compeleting my coursework for this class has led me to appreciate the importance of reviewing 
-   and polishing one's work in a professional manner.  This review process can often include 
-   removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's     
-   capabilities.  During the course of this class, I have enhanced my artifacts through the addition 
-   of testing modules for secure coding, new functions for database CRUD funcitonality, and increased
-   complexity in list search function for an appointment scheduler. 
-   
-   Collaborating in a team environment has also allowed me to gain an appreciation for the ability to 
-   have a new pair of eyes review my work.  Often I can get too close to a project, and lose the ability
-   to look at my work objectively, but having another reviewer can reveal previously unseen mistakes
-   and advice for possible improvements.  Additionally the ability to communicate with stakeholders and
-   and discover what they want in a project, has been a focus of my work in this class and has reinforced 
-   my belief that the most important part of the software development lifecycle is when the requirements
-   for the project are being decided on during discussion with stakeholder, programmers, project leads,
-   and end users.
+Computer Science program at Southern New Hampshire University (SNHU) has been an invaluable experience, shaping my technical skills and understanding of the software development process. Throughout the program, I have focused on designing and refining software solutions, with an emphasis on producing clear, efficient, and scalable code.
+In software design, I have learned to simplify complex implementations, apply design patterns like Singleton, Observer, and Factory, and ensure my code is modular and maintainable. My coursework in algorithms and data structures has equipped me to develop efficient solutions using tools such as linked lists, hash maps, and sorting algorithms. Additionally, my work in database systems has provided experience in building and managing relational and NoSQL databases, integrating them into full-stack applications, and performing CRUD operations to support interactive, data-driven functionality.
+Beyond technical skills, the program has reinforced the importance of collaboration and effective communication. Engaging with team members and stakeholders has helped me develop the ability to gather requirements, incorporate feedback, and ensure my projects align with user and organizational goals. These collaborative experiences have taught me to value peer reviews as a way to improve my work and uncover insights I may have overlooked.
+This program has prepared me not only with the technical expertise needed to succeed in the tech industry but also with the problem-solving and communication skills essential for collaborative environments. It has fostered a mindset of continuous learning and adaptability, which I am eager to apply as I move forward in my career.
 
 
 ## **Artifacts**
