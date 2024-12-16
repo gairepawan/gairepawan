@@ -64,37 +64,27 @@ This enhanced artifact exemplifies my ability to deliver professional-quality so
 
 ### **Repository Link**
 
+- [Original Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Original-Code-Base/tree/main/Text%20Based%20Game-%20Base%20Code%20(Artifact%231))
+
 - [Enhanced Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Enhanced-Code/tree/main/TextBased%20Game-%20Enhanced%20(Artifact%201))
 
 
 # **Enhancement Two: Algorithms and Data Structures**
 
-The artifact used for the algorithms and data structure category is a project from CS-405 
-that was completed on August 8th, 2021. It is a test module that was designed to search a collection of 
-entries in a data structure for functionality and exploitable weaknesses. 
+The artifact used for the algorithms and data structures category is a project originally developed during my CS-300 coursework. It is a C++ program that loads data from a file into an unordered map, demonstrating efficient key-value data storage and retrieval. For this enhancement, I expanded the project by incorporating additional data structures and functionality, emphasizing secure coding practices, improved usability, and algorithmic efficiency.
 
-This artifact was selected, because it is an excellent example of secure coding practices being used to 
-protect data structures and algorithms.  One of the major weaknesses of any publicly available service 
-application is the exploitability of its interface.  A common attack made on these applications is a 
-buffer overflow attack that allows a malicious hacker to overflow an input’s parameters for a denial of 
-service attack or attempt to access the application’s data.  
+This artifact was selected because it demonstrates my ability to design, implement, and enhance secure and efficient data structures while addressing real-world challenges. The original project focused on basic functionality, using an unordered map to store and retrieve data based on unique keys. For the enhanced version, I integrated a linked list to track user actions dynamically, added sorting and filtering algorithms for data management, and created a more interactive command-line interface (CLI) for better usability. These enhancements showcase my ability to combine multiple data structures and algorithms effectively.
 
-In the original project, mostly positive assertions were included for the tests because that was what was 
-required for completion.  For this artifact however, the amount and variety of tests were increased that applied
-in the testing module.  Most of the tests that were included in the pre-enhancement artifact were positive
-asserts that verified something was true about a sample collection of entries like its max size is greater 
-than ten.  For this enhancement, more tests were introduced that tested a negative or in other words verified 
-that a given assertions was false.  
+One of the key improvements was the expansion of the testing module to include more comprehensive tests. In the original project, the testing was limited to basic assertions, such as verifying that the map contained entries or that its size exceeded a certain threshold. For the enhancement, I added negative tests to ensure the program could handle invalid data gracefully and prevent issues such as buffer overflows or invalid input errors. This focus on robust testing reflects my commitment to secure coding practices and protecting algorithms and data structures from potential exploits.
 
-The course objectives were completed for enhancing this artifact.  I improved the complexity and
-number of tests that were used to ensure the collection’s data structures and algorithm parameters were 
-properly protected. I do not currently have any updates on my outcome-coverage plans. 
+The enhanced program now includes features like dynamic entry tracking using a linked list, which keeps a history of recent actions. Sorting algorithms allow users to organize data alphabetically or by custom criteria, while filtering functions enable users to view subsets of the data based on specific parameters. The command-line interface was redesigned to provide clear prompts and error messages, making the program more intuitive and user-friendly. These additions not only improved the functionality of the program but also aligned it with industry standards for usability and efficiency.
 
-When I was enhancing my artifact, I learned to appreciate adding to a project that I worked on weeks ago.  
-When I completed the activity that this artifact was based on, I only did what was necessary to complete 
-the assignment and get a satisfactory grade but being able to return to my previous work and improve it 
-helpedme to appreciate the original purpose and scope of CS-405. I also struggled with trying to remember 
-the nuances of the assignment it was based off even though I only completed it a month ago.  
+Through this enhancement, several course objectives were met. I demonstrated the ability to design and evaluate computing solutions using algorithmic principles, as seen in the implementation of sorting and filtering functionalities. Secure coding practices were emphasized by expanding the testing suite to include more rigorous validations, protecting the program from potential vulnerabilities. These enhancements highlight my ability to combine technical expertise with a user-centered approach to create practical and secure applications.
+
+Enhancing this artifact taught me the value of revisiting and improving previous work. When I originally completed the project, my focus was on meeting the assignment requirements. Revisiting it for enhancement allowed me to see its growth potential and appreciate its foundational purpose. One of the challenges I faced was understanding the nuances of the original assignment and integrating new features without disrupting the existing functionality. This process required careful planning, debugging, and a deep understanding of both the original code and the enhancements.
+
+This artifact now reflects my ability to design secure, efficient, and user-friendly solutions while addressing real-world challenges in algorithms and data structures. By enhancing the project with additional features and robust testing, I have demonstrated my commitment to continuous improvement and my readiness to apply these skills in professional environments.
+
 
 ### **Repository Link**
 
