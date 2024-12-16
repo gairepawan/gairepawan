@@ -1,37 +1,21 @@
 # **Enhancement One: Software Design and Engineering**
 
-   The artifact that I am using for the software design and engineering category is my final
-project from cs 320 that I completed on April 18, 2021.  It is a medical application that 
-is used to schedule appointments, collect contact information, and provide a list of tasks 
-to be completed.  The goal of this class was to complete an application that automated the 
-process of collecting information and provided module testing in the form of Junit tests 
-that made sure the information entered was correct and did not result in an error like 
-buffer overflow.
+The artifact for the software design and engineering category is my text-based adventure game project from IT-145, originally developed in Java during my earlier coursework. This project was designed as a console-based game where players could navigate through different rooms, interact with objects, and progress through the story. For my enhancement, I transformed the game into a graphical user interface (GUI) application using Java Swing, applied advanced design patterns, and later ported the entire project from Java to Python to improve flexibility, modernize the codebase, and align with industry trends.
 
-   I selected this item because it is a good example of testing, data collection, and software 
-application all in one.  The junit tests, private helper methods, appropriate access modifiers
-and limits on parameters are components of the artifact that showcase my ability to develop a 
-syntactically accurate, logical, and efficient application.  I improved the artifact by 
-expanding the scope of the junit tests and search modules. 
+This artifact was selected because it showcases a range of skills, including object-oriented programming, GUI development, and software engineering best practices. The original project already demonstrated fundamental skills in game logic, modular code structure, and interactivity. However, the enhancements significantly expanded the scope and complexity of the project. I incorporated design patterns such as Singleton for managing game settings, Observer for tracking game state changes, and Factory for efficiently creating game elements like rooms and items. Porting the project to Python introduced additional challenges and learning opportunities, allowing me to explore Python’s object-oriented features and libraries for GUI development.
 
-   In my original project I only made junit tests that focused on the assert true method that a 
-variable was within its projected parameters.  I added twice as many junit tests that provided
-an assert false method which tested for data that was outside the scope of my earlier tests.  
-I also added new variables like first and last names to attach to the list which kept track of
-appointment for my medical app.  This list originally was only designed to look up a unique 
-identification by search through the list, but I added several more search methods which applied
-to all the other variables listed.
+The enhancements included transitioning the game from a text-based interface to a GUI application, which improved usability and engagement. Key features added include inventory management, room exploration through clickable buttons, and dynamic score tracking on the screen. These features were implemented first in Java and later adapted to Python using libraries such as Tkinter, which provided a lightweight yet effective framework for GUI development. Porting the project to Python also reduced the code complexity, made the project easier to maintain, and allowed for future integration with Python’s extensive ecosystem of libraries.
 
-   I believe that I med most of the course objectives that I planned to meet in module one.  
-I improved the syntax of my project and expanded its scope. I do not currently have any further 
-updates to my outcome-coverage plans. 
+One major improvement was the addition of interactive GUI components. Players can now use buttons to navigate rooms, pick up or drop items, and track their scores through a user-friendly interface. The Singleton design pattern manages the game state, ensuring centralized and consistent control of settings and data. The Observer pattern dynamically updates the GUI as players interact with the game, enhancing responsiveness and immersion. These features were successfully implemented in both Java and Python, highlighting my ability to adapt and improve a project across different programming environments.
 
-   When enhancing my project I learned to stay within the bounds of the project and not to become too 
-ambitions.  The areas of my project that I focused on seemed like they were common sense improvements
-and extensions.  It also helped that I hadn’t looked at my project for some months and could look at
-it with fresh eyes. The only challenges that I faced were attempting to get tests to function properly
-and test the correct data.  
+Through this enhancement, multiple course objectives were met. I demonstrated the ability to use well-founded software engineering techniques to create maintainable and efficient applications. The transition from Java to Python showcases my adaptability and commitment to leveraging modern tools and technologies. I also improved the usability, scalability, and accessibility of the project, aligning it with industry standards. This artifact reflects my development growth by demonstrating my ability to modernize a basic project and make it more advanced, user-focused, and versatile.
+
+Enhancing this project taught me the importance of setting practical goals and revisiting previous work with fresh perspectives. Porting the project to Python provided a deeper understanding of language-specific nuances and reinforced the value of choosing the right tools for a given task. The most significant challenges included integrating GUI components with the existing game logic and ensuring that design patterns were applied correctly across both languages. These challenges allowed me to refine my problem-solving skills and gain experience in cross-language development.
+
+This enhanced artifact exemplifies my ability to deliver professional-quality software solutions by leveraging object-oriented programming, design patterns, and a user-focused approach. By porting the project to Python and introducing GUI elements, I have demonstrated my adaptability, commitment to continuous improvement, and readiness to apply these skills to real-world software development challenges.
 
 ### **Repository Link**
 
-- [Enhancement One Repository](https://github.com/BrettSoden/EnhancementOne-Software-Design-and-Engineering)
+- [Original Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Original-Code-Base/tree/main/Text%20Based%20Game-%20Base%20Code%20(Artifact%231))
+
+- [Enhanced Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Enhanced-Code/tree/main/TextBased%20Game-%20Enhanced%20(Artifact%201))
