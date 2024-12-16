@@ -88,7 +88,9 @@ This artifact now reflects my ability to design secure, efficient, and user-frie
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/BrettSoden/EnhancementTwo-Algorithms-and-Data-Structure)
+- [Original Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Original-Code-Base/tree/main/Base%20Code-%20File%20Map%20Loader%20(Artifact%232))
+
+- [Enhanced Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Enhanced-Code/tree/main/File%20Map%20Loader-%20Enhanced%20(Artifact%202))
 
 
 # **Enhancement Three: Databases**
