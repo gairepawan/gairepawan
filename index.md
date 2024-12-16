@@ -115,4 +115,4 @@ This enhanced artifact demonstrates my ability to create secure, dynamic, and in
 
 ### **GitHub Pages Link**
 
-- [CS-499 ePortfolio](www.gairepawan.com)
+- [CS-499 ePortfolio](https://github.com/gairepawan/gairepawan.github.io)
