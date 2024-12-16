@@ -64,7 +64,7 @@ This enhanced artifact exemplifies my ability to deliver professional-quality so
 
 ### **Repository Link**
 
-- [Enhanced Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Enhanced-Code/tree/main/TextBased%20Game%20Enhanced%20(Artifact%201))
+- [Enhanced Code Repository](https://github.com/gairepawan/Artifact-1-2-3-Enhanced-Code/tree/main/TextBased%20Game-%20Enhanced%20(Artifact%201))
 
 
 # **Enhancement Two: Algorithms and Data Structures**
